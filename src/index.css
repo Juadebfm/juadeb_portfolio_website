@@ -5,3 +5,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .rounded_btn {
+    @apply bg-transparent rounded-[999px] border border-x-juadeb_light_gray py-4 px-14 text-h4 hover:bg-white hover:text-main_bg duration-150 transition-all;
+  }
+}
