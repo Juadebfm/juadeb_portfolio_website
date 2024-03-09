@@ -7,6 +7,7 @@ export default {
         urbanist: ["Urbanist", "sans-serif"],
         quickSand: ["Quicksand", "sans-serif"],
         leagueSpartan: ["League Spartan", "sans-serif"],
+        maven: ["Maven Pro", "sans-serif"],
       },
       colors: {
         juadeb_gray: "#5F5F5F",
