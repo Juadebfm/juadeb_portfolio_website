@@ -56,11 +56,11 @@ const About = () => {
             myself on producing high-quality websites, and I'm comfortable
             working solo or as part of a team.
           </p>
-          <div className="rounded-full shadow-md shadow-juadeb_light_gray w-[35%]">
+          <div className="w-[35%] pl-16">
             <img
               src={JuadebgabrielCircle}
               alt="Myself"
-              className="rounded-full w-full"
+              className="block w-full"
             />
           </div>
         </div>

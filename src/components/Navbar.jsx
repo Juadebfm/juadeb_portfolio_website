@@ -4,7 +4,7 @@ import { BsFillMenuButtonWideFill } from "react-icons/bs";
 
 const Navbar = () => {
   return (
-    <nav className="flex items-center justify-between py-8 px-[6rem]">
+    <nav className="flex items-center justify-between py-14 px-[6rem]">
       <div className="flex items-center justify-center flex-col leading-none">
         <span className="font-leagueSpartan text-[25px]">
           Juadeb<span className="text-juadeb_light_gray">Gabriel</span>

@@ -7,7 +7,7 @@ import Milestones from "../assets/port.png";
 
 const Services = () => {
   return (
-    <section className="py-[4.5rem] px-[6rem]">
+    <section className="py-[5rem] px-[8rem]">
       <span className="text-[#A9A9A9] capitalize">What Do I Do And How?</span>
       <div className="mt-8 text-h3 leading-normal font-extralight">
         <p className="w-[45%]">
