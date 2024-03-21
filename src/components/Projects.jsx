@@ -7,6 +7,7 @@ import { MdOutlineArrowOutward } from "react-icons/md";
 import PluracodeLMS from "../assets/pluralcodelms.png";
 import dcossassociates from "../assets/dcossassociates.png";
 
+
 const Projects = () => {
   return (
     <section className="py-[5rem] px-[8rem]">

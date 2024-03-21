@@ -1,12 +1,15 @@
 import React from "react";
 import Pluralcode from "../assets/pluralcodewhite.png";
 import Dcoss from "../assets/dc.png";
-import Blazetech from "../assets/Logov1.png"
+import Blazetech from "../assets/Logov1.png";
 import { Link } from "react-router-dom";
 
 const Cta = () => {
   return (
-    <section className="border-y border-juadeb_gray  grid grid-cols-3">
+    <section
+      id="projects"
+      className="border-y border-juadeb_gray  grid grid-cols-3"
+    >
       <Link to="https://pluralcode.institute/" target="_blank">
         <div className="border-r border-juadeb_gray px-[6rem] py-[4rem] flex flex-col items-center justify-center">
           <img src={Pluralcode} alt="Pluralcode" width={250} />
